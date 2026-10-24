@@ -43,3 +43,4 @@ def init_log():
         apscheduler_logger.setLevel(logging.DEBUG)
         stream_handler = logging.StreamHandler()
         apscheduler_logger.addHandler(stream_handler)
+# 7651d3
