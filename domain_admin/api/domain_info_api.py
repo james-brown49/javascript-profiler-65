@@ -676,3 +676,4 @@ def auto_import_subdomain_by_ids():
 
     # 异步提交
     domain_service.auto_import_from_domain_batch_async(rows=rows, user_id=current_user_id)
+# ffad91

@@ -315,3 +315,4 @@ def run_init_monitor_task_async(user_id):
 
     for row in rows:
         scheduler_main.run_one_monitor_task(row)
+# cb79b0
