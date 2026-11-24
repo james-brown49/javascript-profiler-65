@@ -28,3 +28,4 @@ def get_cert_information(domain):
         'cert_pem': cert_pem,
         'cert_text': cert_text,
     }
+# 4d6e81
